@@ -1,4 +1,4 @@
-# publications
+# Publications
 
 This is repository for all publications
 
